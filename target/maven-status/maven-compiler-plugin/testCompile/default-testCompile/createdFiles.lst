@@ -1,0 +1,4 @@
+com/aditamento/veiculos/VeiculosApplicationTests.class
+com/aditamento/veiculos/mocks/AlteraDataPagamentoMock.class
+com/aditamento/veiculos/mocks/FinanceiroDomainMock.class
+com/aditamento/veiculos/mocks/AlteraNumeroParcelasMock.class

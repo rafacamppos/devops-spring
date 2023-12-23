@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8af5a9b7-922e-4d71-b8a4-2ab436ab4e3f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2T5SaUNqHdknA85ILIj7yVZqVkX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.VeiculosApplication.executor": "Run",
+    "Maven.veiculos [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/rafaelcampos/git/sre-observability/pom.xml",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/prometheus-grafana" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aditamento.veiculos.adapter.datastore.entity" />
+      <recent name="com.aditamento.veiculos.aplication.services.sqs" />
+      <recent name="com.aditamento.veiculos.domain.exceptions" />
+      <recent name="com.aditamento.veiculos.mocks" />
+      <recent name="com.aditamento.veiculos.adapter.datastore.mapper" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VeiculosApplication">
+    <configuration name="VeiculosApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.aditamento.veiculos.VeiculosApplication" />
+      <module name="veiculos" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in veiculos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="veiculos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlteraDataPagamentoUseCaseImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="veiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditamento.veiculos.aplication.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aditamento.veiculos.aplication.usecases" />
+      <option name="MAIN_CLASS_NAME" value="com.aditamento.veiculos.aplication.usecases.AlteraDataPagamentoUseCaseImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlteraDataPagamentoUseCaseImplTest.alteraDataPagamentoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="veiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditamento.veiculos.aplication.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aditamento.veiculos.aplication.usecases" />
+      <option name="MAIN_CLASS_NAME" value="com.aditamento.veiculos.aplication.usecases.AlteraDataPagamentoUseCaseImplTest" />
+      <option name="METHOD_NAME" value="alteraDataPagamentoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlteraDataPagamentoUseCaseImplTest.erroContratoInativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="veiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditamento.veiculos.aplication.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aditamento.veiculos.aplication.usecases" />
+      <option name="MAIN_CLASS_NAME" value="com.aditamento.veiculos.aplication.usecases.AlteraDataPagamentoUseCaseImplTest" />
+      <option name="METHOD_NAME" value="erroContratoInativo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlteraDataPagamentoUseCaseImplTest.erroDataPagamento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="veiculos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aditamento.veiculos.aplication.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aditamento.veiculos.aplication.usecases" />
+      <option name="MAIN_CLASS_NAME" value="com.aditamento.veiculos.aplication.usecases.AlteraDataPagamentoUseCaseImplTest" />
+      <option name="METHOD_NAME" value="erroDataPagamento" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.VeiculosApplication" />
+      <item itemvalue="JUnit.All in veiculos" />
+      <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest" />
+      <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest.alteraDataPagamentoTest" />
+      <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest.erroContratoInativo" />
+      <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest.erroDataPagamento" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest.erroDataPagamento" />
+        <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest.erroContratoInativo" />
+        <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest" />
+        <item itemvalue="JUnit.AlteraDataPagamentoUseCaseImplTest.alteraDataPagamentoTest" />
+        <item itemvalue="JUnit.All in veiculos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-249ae16d76d6-974e3994" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af5a9b7-922e-4d71-b8a4-2ab436ab4e3f" name="Changes" comment="" />
+      <created>1690331512444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690331512444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/beans/feign/ConsultaTaxaJurosErrorDecoder.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/beans/feign/ConsultaTaxaJurosErrorDecoder.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/beans/feign/ConsultaTaxaJurosErrorDecoder.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/services/ConsultaTaxaJurosServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/controller/server/AditamentoController.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/usecases/AlteraNumeroParcelaUseCaseImpl.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/controller/mapper/AlteracaoDataPagamentoToAditamentoDTOMapperImpl.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/usecases/AlteraDataPagamentoUseCaseImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/datastore/mapper/AlteraDataPagamentoToAditamentoMapperImpl.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/datastore/mapper/AlteraDataPagamentoToAditamentoMapperImpl.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/datastore/mapper/AlteraDataPagamentoToAditamentoMapperImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/datastore/mapper/AlteraDataPagamentoToAditamentoMapperImpl.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/usecases/AlteraDataPagamentoUseCaseImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/controller/mapper/ConsultaTaxaJurosResponseToJurosCalculadoMapperImpl.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/services/ConsultaTaxaJurosServiceImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/services/ConsultaTaxaJurosServiceImpl.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/beans/feign/ConsultaTaxaJurosErrorDecoder.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/services/sqs/SqsService.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/controller/server/SqsController.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/services/sqs/SqsService.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/aplication/services/sqs/ListenerSqs.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/aditamento/veiculos/adapter/controller/client/ConsultaTaxaJurosClient.java</url>
+          <line>15</line>
+          <properties class="com.aditamento.veiculos.adapter.controller.client.ConsultaTaxaJurosClient" method="consultaTaxaJuros">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="io.micrometer.prometheus.PrometheusMeterRegistry" memberName="filters" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/veiculos$VeiculosApplication.ic" NAME="VeiculosApplication Coverage Results" MODIFIED="1690515904496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/veiculos$AlteraDataPagamentoUseCaseImplTest_alteraDataPagamentoTest.ic" NAME="AlteraDataPagamentoUseCaseImplTest.alteraDataPagamentoTest Coverage Results" MODIFIED="1690649137320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.aditamento.veiculos.aplication.usecases.*</FILTER>
+    </SUITE>
+  </component>
+</project>
