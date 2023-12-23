@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8af5a9b7-922e-4d71-b8a4-2ab436ab4e3f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infra/rollout.yml" beforeDir="false" afterPath="$PROJECT_DIR$/infra/rollout.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
