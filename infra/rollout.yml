@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: devops-app
-          image: rafacamppos/sre-app
+          image: rafacamppos/spring-app
           resources:
             requests:
               cpu: 25m
